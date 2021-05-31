@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Marvel Hiberus</string>
+    <string name="character_list">List</string>
+    <string name="about_us">About us</string>
+    <string name="description">Description</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="stories">Stories</string>
+    <string name="events">Events</string>
+    <string name="search_by_name"><i>Filter by name</i></string>
+    <string name="developer_and_designer_for_this_demo">Developer and designer for this demo</string>
+    <string name="marcelo_mur">Marcelo Mur</string>
+    <string name="mmur_hiberus_com">mmur@hiberus.com</string>
+    <string name="info">Info</string>
+    <string name="Items">Items</string>
+    <string name="detail">Detail</string>
+    <string name="wiki">Wiki</string>
+    <string name="comic">Comic</string>
+    <string name="last_modification">Last modification</string>
+    <string name="no_date_modified"><i>- No modification date -</i></string>
+    <string name="link_not_available">This link is not available</string>
+    <string name="no_description"><i>- No description - </i></string>
+    <string name="back_button">back button</string>
+    <string name="openbank_logo">openbank logo</string>
+    <string name="hiberus_logo">hiberus logo</string>
+    <string name="no_marvel_characters_available">No marvel characters available</string>
+    <string name="refresh">Refresh</string>
+    <string name="could_not_download_characters">Could not download characters, check your network.</string>
+    <string name="no_items"><i>- no items -</i> </string>
+</resources>
